@@ -17,5 +17,5 @@ def role_arn_to_session(**args):
 
 
 session = role_arn_to_session(
-		RoleArn='arn:aws:iam::724155539613:role/terraformInstance',
+		RoleArn='arn:aws:iam::1111111:role/terraformInstance',
 		RoleSessionName='ExampleSessionName')
